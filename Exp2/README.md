@@ -97,7 +97,7 @@ Give executable permissions to your mapper.py and reducer.py
 ```shell
 chmod 777 mapper.py reducer.py
 ```
-#### Step 7: Run Word Count using Hadoop Streaming:
+#### Step 6: Run Word Count using Hadoop Streaming:
 Download the latest hadoop-streaming jar file and place it in a location you can easily
 access.
 Then run the Word Count program using Hadoop Streaming.
@@ -110,7 +110,7 @@ hadoop jar /path/to/hadoop-streaming-3.3.6.jar \
  -reducer /path/to/reducer.py
 ```
 
-#### Step 8: Check Output:
+#### Step 7: Check Output:
 
 Check the output of the Word Count program in the specified HDFS output directory.
 
