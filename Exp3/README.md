@@ -160,7 +160,7 @@ Check the output of the program in the specified HDFS output directory.
 hdfs dfs -text /weatherdata/output/* > /home/sx/Downloads/output/
 part-00000
 ```
-
+![Output](https://github.com/karanbalajirs/210701105-CS19P16-DA-Lab/blob/master/Exp3/Images/Screenshot%20from%202024-09-16%2016-39-47.png)
 After copy and paste the above output in your local file give the below command to
 remove the directory from hdfs :
 
