@@ -155,6 +155,7 @@ You can test Hive by running the Hive shell: Copy code hive You should be able t
 ```shell
 hive
 ```
+![Output](https://github.com/karanbalajirs/210701105-CS19P16-DA-Lab/blob/master/Exp5a/Screenshot%20from%202024-09-16%2016-49-13.png)
 
 ## Result
 Thus, the Apache Hive installation is completed successfully on Fedora.
