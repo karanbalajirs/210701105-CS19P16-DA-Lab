@@ -1,4 +1,3 @@
-
 # Exp7: Implement Linear and Logistic Regression
 
 ## Aim
