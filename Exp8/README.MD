@@ -1,7 +1,7 @@
 # Exp 8: Implement SVM/Decision tree classification techniques
 
 ## Aim
-Implement SVM/Decision tree classification techniques
+To implement SVM/Decision tree classification techniques.
 
 ## Program
 
