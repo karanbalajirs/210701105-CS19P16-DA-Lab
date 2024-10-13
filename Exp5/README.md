@@ -1,4 +1,4 @@
-# Exp5: Installation of Hive on Ubuntu
+# Exp 5: Installation of Hive on Ubuntu
 
 ## Aim
 To Download and install Hive, Understanding Startup scripts, Configuration files.

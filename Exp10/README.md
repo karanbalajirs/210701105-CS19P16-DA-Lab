@@ -1,4 +1,4 @@
-# Exp10: Visualize Data Using Any Plotting Framework
+# Exp 10: Visualize Data Using Any Plotting Framework
 
 ## Aim
 To visualize data using any plotting framework.

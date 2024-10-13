@@ -1,4 +1,4 @@
-# Exp6: Handling JSON data using HDFS and Python
+# Exp 6: Handling JSON data using HDFS and Python
 
 ## Aim
 To handling JSON data using HDFS and Python.

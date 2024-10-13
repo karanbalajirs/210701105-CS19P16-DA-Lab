@@ -1,5 +1,4 @@
-
-# Exp.1 Downloading and installing Hadoop, Understanding different Hadoop modes,
+# Exp 1: Downloading and installing Hadoop, Understanding different Hadoop modes, Startup scripts, Configuration files.
 
 
 ## Aim

@@ -1,5 +1,4 @@
-
-# EXP 3: Map Reduce program to process a weather dataset.
+# Exp 3: Map Reduce program to process a weather dataset.
 
 ## Aim
 To implement MapReduce program to process a weather dataset.

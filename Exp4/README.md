@@ -1,5 +1,4 @@
-
-# EXP 4: Create UDF in PIG
+# Exp 4: Create UDF in PIG
 
 ## Aim 
 To create User Define Function in Apache Pig and execute it on map reduce.

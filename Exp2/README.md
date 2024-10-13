@@ -1,4 +1,4 @@
-# EXP 2: Run a basic Word Count Map Reduce program to understand Map Reduce Paradigm.
+# Exp 2: Run a basic Word Count Map Reduce program to understand Map Reduce Paradigm.
 
 ## Aim
 

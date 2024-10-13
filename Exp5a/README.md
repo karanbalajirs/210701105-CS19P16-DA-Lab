@@ -1,4 +1,4 @@
-# Exp5a: Design and test various schema models to optimize data storage and retrieval Using Hive.
+# Exp 5a: Design and test various schema models to optimize data storage and retrieval Using Hive.
 
 ## Aim
 To Design and test various schema models to optimize data storage and retrieval Using Hbase.
