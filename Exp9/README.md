@@ -1,4 +1,4 @@
-# Exp9 :Implement clustering techniques – Hierarchical and K-Means
+# Exp9: Implement clustering techniques – Hierarchical and K-Means
 
 ## Aim
 To implement clustering techniques – Hierarchical and K-Means.
